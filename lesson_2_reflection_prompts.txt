@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	A new hidden directory is created where git will store its metadata.   This is needed to convert a folder into a git repository.
+	R/ A new hidden directory is created where git will store its metadata.   This is needed to convert a folder into a git repository.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
